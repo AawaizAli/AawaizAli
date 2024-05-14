@@ -1,4 +1,4 @@
-# Yo, I'm Aawaiz Ali! 👋
+# I'm Aawaiz Ali! 👋
 
 ## About Me
 - 🎓 I'm currently a junior at FAST NUCES, Karachi, majoring in Computer Science.
