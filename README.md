@@ -1,16 +1,33 @@
-### Hi there 👋
+# Yo, I'm Aawaiz Ali! 👋
 
-<!--
-**AawaizAli/AawaizAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 I'm currently a junior at FAST NUCES, Karachi, majoring in Computer Science.
+- 🌐 Deeply interested in fields like Machine Learning, Data Science, Web Development, Graphic Design, and UI/UX.
+- 💻 Currently working as a Junior React Dev
+- 🚀 Exploring the field of Machine Learning and Data Science and learning more day-by-day
 
-Here are some ideas to get you started:
+## My Technical Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+- Python
+- JavaScript
+- C/C++
+- VisualBasic
+
+### Frameworks and Libraries
+- React
+- flask
+- pandas, numpy, matplotlib
+- scikit-learn
+
+### Tools
+- Git
+- Figma
+
+### Databases
+- MySQL
+- PostgreSQL
+
+## Connect with Me
+- LinkedIn: Aawaiz Ali (https://linkedin.com/in/aawaiz)
+- Email: aawaizali8@gmail.com
