@@ -11,13 +11,14 @@
 ### Programming Languages
 - Python
 - JavaScript
+- Java
 - C/C++
 - VisualBasic
 
 ### Frameworks and Libraries
 - React
 - flask
-- pandas, numpy, matplotlib
+- pandas, numpy, sympy, matplotlib, seaborn, pillow, tkinter
 - scikit-learn
 
 ### Tools
