@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 I'm currently a junior at FAST NUCES, Karachi, majoring in Computer Science.
-- 🌐 Deeply interested in fields like Machine Learning, Data Science, Web Development, Graphic Design, and UI/UX.
+- 🌐 Deeply experienced in domains like DSA, Web Development, Graphic Design, and UI/UX.
 - 💻 Currently working as a Junior React Dev
 - 🚀 Exploring the field of Machine Learning and Data Science and learning more day-by-day
 
