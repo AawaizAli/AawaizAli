@@ -16,7 +16,7 @@
 - VisualBasic
 
 ### Frameworks and Libraries
-- React
+- React, react-redux
 - flask
 - pandas, numpy, sympy, matplotlib, seaborn, pillow, tkinter
 - scikit-learn
