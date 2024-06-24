@@ -3,7 +3,6 @@
 ## About Me
 - 🎓 I'm currently a junior at FAST NUCES, Karachi, majoring in Computer Science.
 - 🌐 Deeply experienced in domains like DSA, Web Development, Graphic Design, and UI/UX.
-- 💻 Currently working as a MERN Stack Intern
 - 🚀 Exploring the field of Machine Learning and Data Science and learning more day-by-day
 
 ## My Technical Stack
