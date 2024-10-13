@@ -1,11 +1,11 @@
-# I'm Aawaiz Ali! 👋
+# I'm Aawaiz Ali! 
 
 ## About Me
-- 🎓 I'm currently a junior at FAST NUCES, Karachi, majoring in Computer Science.
-- 🌐 Deeply experienced in domains like DSA, Web Development, Graphic Design, and UI/UX.
-- 🚀 Exploring the field of Machine Learning and Data Science and learning more day-by-day
+- Currently a junior at FAST NUCES, Karachi, majoring in Computer Science.
+- Experienced in domains like DSA, Web Development, Graphic Design, and UI/UX.
+- Exploring the field of Machine Learning and Data Science.
 
-## My Technical Stack
+## Tech Stack
 
 ### Programming Languages
 - Python
@@ -13,12 +13,19 @@
 - Java
 - C/C++
 - VisualBasic
+- R
 
 ### Frameworks and Libraries
-- React, react-redux
+- TypeScript, React.js, Next.js, react-redux, Node.js
 - flask
 - pandas, numpy, sympy, matplotlib, seaborn, pillow, tkinter
 - scikit-learn
+
+### Creative Tools
+- Tailwind CSS
+- Material UI
+- AntD
+- shadCN
 
 ### Tools
 - Git
@@ -27,6 +34,7 @@
 ### Databases
 - MySQL
 - PostgreSQL
+- MongoDB
 
 ## Connect with Me
 - LinkedIn: Aawaiz Ali (https://linkedin.com/in/aawaiz)
