@@ -1,7 +1,7 @@
 # I'm Aawaiz Ali! 
 
 ## About Me
-- Currently a junior at FAST NUCES, Karachi, majoring in Computer Science.
+- Junior at FAST NUCES, Karachi, BS Computer Science.
 - Experienced in domains like DSA, Web Development, Graphic Design, and UI/UX.
 - Exploring the field of Machine Learning and Data Science.
 
@@ -26,10 +26,10 @@
 - Material UI
 - AntD
 - shadCN
+- Figma
 
 ### Tools
 - Git
-- Figma
 
 ### Databases
 - MySQL
