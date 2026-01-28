@@ -1,7 +1,7 @@
 # I'm Aawaiz Ali! 
 
 ## About Me
-- proud father of https://www.paltuu.pk & https://trackboxd.vercel.app
+- proud father of www.paltuu.pk & www.trackboxd.com
 - senior at FAST NUCES, Karachi, BSCS.
 - SWE II at Synkflow Technologies.
 
