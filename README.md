@@ -1,10 +1,10 @@
 # I'm Aawaiz Ali! 
 
-## About Me
+## about me
 - proud father of www.paltuu.pk & www.trackboxd.com
 - senior at FAST NUCES, Karachi, BSCS.
-- SWE II at Synkflow Technologies.
+- swe at synkflow technologies.
 
-## Connect with Me
-- LinkedIn: https://linkedin.com/in/aawaiz
-- Email: aawaizali8@gmail.com
+## connect
+- linkedIn: https://linkedin.com/in/aawaiz
+- email: aawaizali8@gmail.com & aawaiz@synkflow.cloud
